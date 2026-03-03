@@ -18,7 +18,6 @@
 | Project | What it does |
 |---|---|
 | [`share-of-search`](https://github.com/elmarto87/share-of-search) | Jupyter notebook to measure brand Share of Search vs. competitors using Google Trends — a leading indicator of market share shifts |
-| [`ai-web-app-development-kickoff-kit`](https://github.com/elmarto87/ai-web-app-development-kickoff-kit) | Structured template for starting AI-assisted web projects with Claude Code |
 
 ---
 
