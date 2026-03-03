@@ -18,6 +18,7 @@
 | Project | What it does |
 |---|---|
 | [`share-of-search`](https://github.com/elmarto87/share-of-search) | Jupyter notebook to measure brand Share of Search vs. competitors using Google Trends — a leading indicator of market share shifts |
+| [`trustpilot-sentiment-analyzer`](https://github.com/elmarto87/trustpilot-sentiment-analyzer) | Scrapes Trustpilot reviews and uses Claude to tag sentiment, extract themes, and generate PM-ready product recommendations |
 
 ---
 
